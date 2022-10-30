@@ -1,3 +1,7 @@
+# Introducciòn React (componentes y enrutado)
+
+Se presenta una plantilla con componentes y un enrutado basico
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
