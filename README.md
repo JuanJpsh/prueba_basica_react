@@ -2,6 +2,10 @@
 
 Se presenta una plantilla con componentes y un enrutado basico
 
+## Video explicativo de introducciòn a React
+
+https://drive.google.com/file/d/1JQAaFU5z2GEanq94-J59k2quZjEojMIh/view?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
