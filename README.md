@@ -6,6 +6,8 @@ Se presenta una plantilla con componentes y un enrutado basico
 
 https://drive.google.com/file/d/1JQAaFU5z2GEanq94-J59k2quZjEojMIh/view?usp=sharing
 
+### A continuaciòn se muestra el readme por defecto al crear el proyecto React con npm
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
